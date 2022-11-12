@@ -104,17 +104,17 @@ input[type=text], select, textarea {
   .pd {width: 50%; background-color: #808080;} /* Red */
   .Ms {width: 80%; background-color: #808080;} /* Dark Grey */
 
-  @media only screen and (min-width: 390px) and (max-width: 844px) {
+  /* @media only screen and (min-width: 390px) and (max-width: 844px) {
     .Navbar {
-        width: 35px;
-   /* width: 0; */
+        width: 60px;
+   width: 0; 
   position: fixed;
-   transition: 0.5s; */
-  padding-top: 60px; */
+   transition: 0.5s; 
+  padding-top: 60px; 
   background-color: #424141;
     }
     .Navbar a{
-      padding: 20px 20px 20px 0px;
+      padding: 30px 30px 20px 0px;
       text-decoration: none;
       font-size: 8px;
       color: #e0dcdc;
@@ -126,25 +126,25 @@ input[type=text], select, textarea {
   img{
     width: 200px;
     height: 250px;
-    margin-left: 0px;
+    margin-left: 70px;
     margin-right: 30%;
   }
   .icon{
-    width: 20px;
+    width: 40px;
     height: 20px;
   }
   body{
-    font-size: 6px;
-    padding: 5px;
+    font-size: 9px;
+    padding: 2px;
     width: 300px;
     padding-right: ;
   }
   .section2{
     text-align: justify;
     color:rgb(134, 133, 133);
-    margin-left: 10%;
+    margin-left: 20%;
     margin-top: 10%;
-    margin-right: 30%;}
+    margin-right: 5%;}
 
     h1{
       font-size: small;
@@ -172,10 +172,10 @@ input[type=text], select, textarea {
     }
     .form{
       font-size: 9px;
-      margin-left:10% ;
+      margin-left:20% ;
       margin-right: 2%;
-      /* border: 1px solid #8d8f8f; */
-      border-width: 1px;
+      border: 1px solid #8d8f8f; 
+      border-width: 4px;
       padding: 2px;
       border-bottom-left-radius: 70px;
       border-top-right-radius: 70px;
@@ -192,10 +192,10 @@ input[type=text], select, textarea {
     cursor: pointer;
   }
   .skills {
-    text-align: right; /* Right-align text */
-    padding-top: 5px; /* Add top padding */
-    padding-bottom: 5px; /* Add bottom padding */
-    color: rgb(134, 133, 133); /* White text color */}
+    text-align: right; /* Right-align text *
+    padding-top: 5px; /* Add top padding *
+    padding-bottom: 5px; /* Add bottom padding *
+    color: rgb(134, 133, 133); /* White text color *}
   .icon1{
     width: 20px;
     height: 20px;
@@ -204,4 +204,4 @@ input[type=text], select, textarea {
     margin-right: 60px;
     margin-left: 50px;
   }
-}
+} */
